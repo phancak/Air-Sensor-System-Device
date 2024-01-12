@@ -1,0 +1,10 @@
+../Src/Clocks.c:4:6:intialize_Clock_HSI16	1
+../Src/Clocks.c:9:6:set_system_clock	1
+../Src/Clocks.c:13:6:initialize_I2C1_Clock	1
+../Src/Clocks.c:19:6:initialize_GPIOA_Clock	1
+../Src/Clocks.c:24:6:initialize_GPIOB_Clock	1
+../Src/Clocks.c:29:6:initialize_LSE_Clock	2
+../Src/Clocks.c:42:6:initialize_LSI_Clock	2
+../Src/Clocks.c:54:6:initialize_LPTIM1_Clock	1
+../Src/Clocks.c:60:6:initialize_DMA_Clock	1
+../Src/Clocks.c:64:6:initialize_USART2_Clock	1

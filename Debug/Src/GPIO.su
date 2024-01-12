@@ -1,0 +1,8 @@
+../Src/GPIO.c:22:6:Assert_GPIOA_Output	16	static
+../Src/GPIO.c:26:6:initialize_GPIOA_LPTIM	8	static
+../Src/GPIO.c:30:6:initialize_GPIOA	16	static
+../Src/GPIO.c:39:6:initialize_GPIOA_OD_PU	16	static
+../Src/GPIO.c:51:7:initialize_GPIOA_GPO_PP	16	static
+../Src/GPIO.c:61:7:initialize_GPIOA_Output	16	static
+../Src/GPIO.c:68:7:initialize_GPIO_AM2302	8	static
+../Src/GPIO.c:73:7:intialize_GPIO_USART2	8	static

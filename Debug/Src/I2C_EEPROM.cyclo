@@ -1,0 +1,16 @@
+../Src/I2C_EEPROM.c:92:6:EEPROM_Get_Serial_Number	1
+../Src/I2C_EEPROM.c:101:9:EEPROM_Stored_Data_Block_Is_Available	2
+../Src/I2C_EEPROM.c:116:6:EEPROM_Read_Device_Identifiers	1
+../Src/I2C_EEPROM.c:124:6:EEEPROM_Get_Data_Pointers	1
+../Src/I2C_EEPROM.c:132:6:EEPROM_Reset_Data_Pointers	1
+../Src/I2C_EEPROM.c:144:6:EEPROM_Get_Data_Write_Pointer	1
+../Src/I2C_EEPROM.c:154:6:EEPROM_Get_Data_Process_Pointer	1
+../Src/I2C_EEPROM.c:164:6:EEPROM_Increment_Data_Write_Pointer	1
+../Src/I2C_EEPROM.c:176:6:EEPROM_Increment_Data_Process_Pointer	1
+../Src/I2C_EEPROM.c:187:6:EEPROM_Store_Data_Block	1
+../Src/I2C_EEPROM.c:200:9:EEPROM_Get_FIFO_Data_Block	2
+../Src/I2C_EEPROM.c:236:6:I2C_EEPROM_Read	3
+../Src/I2C_EEPROM.c:278:6:I2C_EEPROM_Write	5
+../Src/I2C_EEPROM.c:316:6:I2C1_IRQHandler	10
+../Src/I2C_EEPROM.c:385:6:intialize_GPIO_I2C1	1
+../Src/I2C_EEPROM.c:425:6:initialize_I2C1	1

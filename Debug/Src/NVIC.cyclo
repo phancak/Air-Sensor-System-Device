@@ -1,0 +1,13 @@
+../Src/NVIC.c:22:6:intialize_EXTI_RTC	1
+../Src/NVIC.c:27:6:initialize_NVIC_interrupt_priorities	1
+../Src/NVIC.c:35:6:initialize_NVIC_LPTIM1	1
+../Src/NVIC.c:40:6:initialize_NVIC_PendSV	1
+../Src/NVIC.c:45:6:intialize_NVIC_AES_RNG_LPUART1	1
+../Src/NVIC.c:50:6:Set_Pending_AES_RNG_LPUART1_Interrupt	1
+../Src/NVIC.c:54:6:Clear_Pending_AES_RNG_LPUART1_Interrupt	1
+../Src/NVIC.c:58:6:PendSv_Set	1
+../Src/NVIC.c:62:6:PendSv_Clear	1
+../Src/NVIC.c:66:6:intialize_NVIC_I2C1	1
+../Src/NVIC.c:71:6:intialize_NVIC_USART2	1
+../Src/NVIC.c:76:6:intialize_NVIC_DMA_CH47	1
+../Src/NVIC.c:80:6:intialize_NVIC_RTC	1

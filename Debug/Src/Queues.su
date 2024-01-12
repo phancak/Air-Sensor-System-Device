@@ -1,0 +1,16 @@
+../Src/Queues.c:52:6:global_message_queue_combine	8	static
+../Src/Queues.c:74:9:global_message_queue_is_empty	8	static
+../Src/Queues.c:83:9:sensor_message_queue_is_empty	8	static
+../Src/Queues.c:92:9:server_message_queue_is_empty	8	static
+../Src/Queues.c:101:9:internal_message_queue_is_empty	8	static
+../Src/Queues.c:110:9:EEPROM_read_message_queue_is_empty	8	static
+../Src/Queues.c:120:10:global_message_queue_get	16	static
+../Src/Queues.c:135:10:sensor_message_queue_get	16	static
+../Src/Queues.c:150:10:server_message_queue_get	16	static
+../Src/Queues.c:165:10:internal_message_queue_get	16	static
+../Src/Queues.c:180:10:EEPROM_read_message_queue_get	16	static
+../Src/Queues.c:194:6:global_message_queue_add	24	static
+../Src/Queues.c:221:6:sensor_message_queue_add	24	static
+../Src/Queues.c:248:6:server_message_queue_add	24	static
+../Src/Queues.c:275:6:internal_message_queue_add	24	static
+../Src/Queues.c:302:6:EEPROM_read_message_queue_add	24	static

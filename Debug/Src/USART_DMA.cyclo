@@ -1,0 +1,15 @@
+../Src/USART_DMA.c:72:6:Usart2_Copy_Into_TX_Buffer	2
+../Src/USART_DMA.c:78:6:Usart2_Process_RX_Buffer	2
+../Src/USART_DMA.c:91:6:USART2_Send_Data	3
+../Src/USART_DMA.c:115:6:initialize_USART2	1
+../Src/USART_DMA.c:165:6:initialize_USART2_DMA	1
+../Src/USART_DMA.c:224:6:DMA_Set_Ch1_Destination	1
+../Src/USART_DMA.c:229:6:DMA_Start_Ch1_Transfer	1
+../Src/USART_DMA.c:237:6:USART2_Reception_Disable	1
+../Src/USART_DMA.c:241:6:USART2_Reception_Enable	1
+../Src/USART_DMA.c:245:6:USART2_Transmission_Disable	1
+../Src/USART_DMA.c:249:6:USART2_Transmission_Enable	1
+../Src/USART_DMA.c:254:6:USART2_Set_Transmission_Blocks	1
+../Src/USART_DMA.c:262:6:USART2_Set_Reception_Blocks	1
+../Src/USART_DMA.c:270:6:USART2_IRQHandler	2
+../Src/USART_DMA.c:282:6:DMA1_Channel4_7_IRQHandler	2

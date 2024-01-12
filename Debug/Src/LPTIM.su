@@ -1,0 +1,5 @@
+../Src/LPTIM.c:47:6:LPTIM1_Set_Period	16	static
+../Src/LPTIM.c:52:6:LPTIM1_Start_Continuous_Mode	8	static
+../Src/LPTIM.c:57:6:LPTIM1_Enable	8	static
+../Src/LPTIM.c:61:6:LPTIM1_Disable	8	static
+../Src/LPTIM.c:65:6:initialize_LPTIM	8	static
