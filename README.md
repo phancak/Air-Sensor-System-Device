@@ -3,4 +3,5 @@ Includes code for the device that measures air temperature and humidity and tran
 
 ![IMG_1951 2](https://github.com/phancak/Air-Sensor-System-Device/assets/84169376/55fccca0-48c6-4383-b02d-e63279c5be73)
 
+### Device Description
 ![Blank diagram](https://github.com/phancak/Air-Sensor-System-Device/assets/84169376/f6cdb0e5-a969-49e2-9b1d-7e018126839c)
